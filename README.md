@@ -5,12 +5,19 @@ multiple charts for data visualization. You can select number of documents you w
 
 ## Charts Included are :
 **Line Chart**
+
 **Bubble Chart**
+
 **Bar Chart**
+
 **Pie Chart**
+
 **Doughnut Chart**
+
 **Radar Chart**
+
 **Polar Area Chart**
+
 
 ## Features
 
